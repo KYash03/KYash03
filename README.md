@@ -2,6 +2,8 @@
 
 I'm a third-year **Data Science** student at **UBC**, specializing in developing **web and mobile apps**, **data analysis**, and **machine learning**.
 
+📄 **For my resume and more, visit [my website](https://kyash03.com).**
+
 ---
 
 ### 📬 Connect with Me
