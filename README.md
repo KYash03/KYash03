@@ -1,6 +1,6 @@
 # Hi! I'm Yash 👋
 
-I'm a third-year **Data Science** student at **UBC**, specializing in developing **web and mobile apps**, **data analysis**, and **machine learning**.
+I'm a third-year **Data Science** student at **UBC**, specializing in developing **web and mobile apps**, **data analysis**, and **machine learning**. I'm seeking a Summer 2024 internship. I am open to opportunities in both software development and data science.
 
 📄 **Check out my work experience, project results and resume on [my website](https://kyash03.com).**
 
