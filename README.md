@@ -38,8 +38,6 @@ I'm a third-year **Data Science** student at **UBC**, specializing in developing
 
 ### 📊 GitHub Statistics
 
-<p align="center">
-  <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=KYash03&theme=nightowl" alt="GitHub Streak Stats"/>
-</p>
+[![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KYash03)](https://github.com/KYash03/github-readme-stats)
 
 ---
